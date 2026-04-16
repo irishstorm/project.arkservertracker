@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "ARK Survivor Tracker | Cluster Management",
   description:
-    "Efficiently track your ARK: Survival Evolved and Ascended characters, server locations, and levels across the cluster.",
+    "Efficiently track your ARK: Ascended characters, server locations, and levels across the cluster.",
   keywords: [
     "ARK Survival Ascended",
     "Character Tracker",
