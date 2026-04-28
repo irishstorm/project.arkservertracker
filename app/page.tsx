@@ -94,7 +94,7 @@ export default function ArkTracker() {
               />
             </div>
 
-            <div className="space-y-1">
+            <div className="space-y-1 flex">
               <label className="text-[10px] uppercase font-bold text-slate-500 ml-1">
                 Server Number
               </label>
@@ -195,7 +195,7 @@ export default function ArkTracker() {
                       <h3 className="text-xl font-black text-white tracking-tight leading-none mb-1">
                         {char.name}
                       </h3>
-                      <div className="flex items-center gap-2">
+                      <div className="flex items-center gap-2 w-96">
                         <span className="bg-blue-500/10 text-blue-400 text-[10px] font-bold px-2 py-0.5 rounded border border-blue-500/20 uppercase">
                           Lvl {char.level}
                         </span>
