@@ -217,7 +217,7 @@ export default function ArkTracker() {
                       <p className="text-[10px] uppercase font-black text-slate-600 mb-1 tracking-widest">
                         Location
                       </p>
-                      <p className="text-sm font-bold text-slate-300 uppercase truncate">
+                      <p className="text-sm font-bold text-slate-300 uppercase truncate w-64">
                         {char.map}
                       </p>
                     </div>
